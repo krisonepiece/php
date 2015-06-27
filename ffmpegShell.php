@@ -1,5 +1,4 @@
 <?php
-//	嘿嘿
 	if(file_exists('C:\xampp\htdocs\final\final.mp4'))
 	{
 		echo "File is exist!";
