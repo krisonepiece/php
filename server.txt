@@ -1,0 +1,7 @@
+140.134.26.13
+User:webserver
+Password:3747
+
+phpmyadmin
+root
+121443651
